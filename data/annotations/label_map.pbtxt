@@ -1,0 +1,74 @@
+item {
+  id: 1
+  name: 'aeolianDune'
+}
+
+item {
+  id: 2
+  name: 'beach'
+}
+
+item {
+  id: 3
+  name: 'crevasseRiverChannelBar'
+}
+
+item {
+  id: 4
+  name: 'distalBar'
+}
+
+item {
+  id: 5
+  name: 'distributaryChannelFill'
+}
+
+item {
+  id: 6
+  name: 'floodPlain'
+}
+
+item {
+  id: 7
+  name: 'floodSwamp'
+}
+
+item {
+  id: 8
+  name: 'interdistributaryEstuary'
+}
+
+item {
+  id: 9
+  name: 'majorRiverBedLagDeposit'
+}
+
+item {
+  id: 10
+  name: 'majorRiverChannelBar'
+}
+
+item {
+  id: 11
+  name: 'meanderPointBar'
+}
+
+item {
+  id: 12
+  name: 'mouthBar'
+}
+
+item {
+  id: 13
+  name: 'proximalDeepseaFan'
+}
+
+item {
+  id: 14
+  name: 'underwaterDistributaryChannel'
+}
+
+item {
+  id: 15
+  name: 'underwaterNaturalLevee'
+}
